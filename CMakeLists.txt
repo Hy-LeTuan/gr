@@ -5,7 +5,7 @@ project("gr" VERSION 1.0 LANGUAGES CXX)
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
-set(CORE_SOURCES src/main.cpp)
+set(CORE_SOURCES src/main.cpp;src/reader.cpp)
 
 add_executable(${PROJECT_NAME} ${CORE_SOURCES})
 

@@ -1,4 +1,6 @@
 IndentWidth: 4
+SortIncludes: true
+SortUsingDeclarations: true
 IncludeBlocks: Regroup
 Language: Cpp
 PointerAlignment: Right
