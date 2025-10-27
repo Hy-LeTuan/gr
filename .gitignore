@@ -3,3 +3,6 @@ data/*/**
 
 build
 build/*/**
+
+.cache
+.cache/*/**
